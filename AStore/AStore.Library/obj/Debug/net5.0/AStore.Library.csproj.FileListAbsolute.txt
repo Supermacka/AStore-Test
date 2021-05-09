@@ -1,0 +1,12 @@
+C:\Users\Colin\source\repos\AStore\AStore.Library\obj\Debug\net5.0\AStore.Library.csprojAssemblyReference.cache
+C:\Users\Colin\source\repos\AStore\AStore.Library\obj\Debug\net5.0\AStore.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Colin\source\repos\AStore\AStore.Library\obj\Debug\net5.0\AStore.Library.AssemblyInfoInputs.cache
+C:\Users\Colin\source\repos\AStore\AStore.Library\obj\Debug\net5.0\AStore.Library.AssemblyInfo.cs
+C:\Users\Colin\source\repos\AStore\AStore.Library\obj\Debug\net5.0\AStore.Library.csproj.CoreCompileInputs.cache
+C:\Users\Colin\source\repos\AStore\AStore.Library\bin\Debug\net5.0\AStore.Library.deps.json
+C:\Users\Colin\source\repos\AStore\AStore.Library\bin\Debug\net5.0\AStore.Library.dll
+C:\Users\Colin\source\repos\AStore\AStore.Library\bin\Debug\net5.0\ref\AStore.Library.dll
+C:\Users\Colin\source\repos\AStore\AStore.Library\bin\Debug\net5.0\AStore.Library.pdb
+C:\Users\Colin\source\repos\AStore\AStore.Library\obj\Debug\net5.0\AStore.Library.dll
+C:\Users\Colin\source\repos\AStore\AStore.Library\obj\Debug\net5.0\ref\AStore.Library.dll
+C:\Users\Colin\source\repos\AStore\AStore.Library\obj\Debug\net5.0\AStore.Library.pdb

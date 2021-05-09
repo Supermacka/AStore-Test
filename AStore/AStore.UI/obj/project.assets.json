@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "AStore.Library/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/AStore.Library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AStore.Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AStore.Library/1.0.0": {
+      "type": "project",
+      "path": "../AStore.Library/AStore.Library.csproj",
+      "msbuildProject": "../AStore.Library/AStore.Library.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "AStore.Library >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Colin\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Colin\\source\\repos\\AStore\\AStore.UI\\AStore.UI.csproj",
+      "projectName": "AStore.UI",
+      "projectPath": "C:\\Users\\Colin\\source\\repos\\AStore\\AStore.UI\\AStore.UI.csproj",
+      "packagesPath": "C:\\Users\\Colin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Colin\\source\\repos\\AStore\\AStore.UI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Colin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\Colin\\source\\repos\\AStore\\AStore.Library\\AStore.Library.csproj": {
+              "projectPath": "C:\\Users\\Colin\\source\\repos\\AStore\\AStore.Library\\AStore.Library.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
